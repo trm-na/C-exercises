@@ -1,6 +1,6 @@
 # C exercises
 
-A set of exercises to practice programming in C.
+A set of exercises to practice C programming.
 
 ## P1
 
